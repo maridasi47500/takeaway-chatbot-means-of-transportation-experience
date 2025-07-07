@@ -31,3 +31,9 @@ find yourself lucky, and hack the city
 - Le "takeaway" est ensuite livré par un moyen de transport, un peu comme une livraison.
 - En résumé : c’est un chatbot conçu pour transporter et livrer des idées ou souvenirs, en tenant compte de différents aspects de la vie, comme le travail, les voyages, les situations personnelles, etc., et en utilisant la - métaphore du transport ou de la livraison.
 
+  ## 2
+- there are digital ids , like a business : des lieux, une experience IA
+- business janvier fevrier mars avriol mai,
+- business : $$$
+- customer experience : *****
+
