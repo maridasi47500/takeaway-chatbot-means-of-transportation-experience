@@ -9,8 +9,9 @@ find yourself lucky, and hack the city
   - when was your last fun experience outdoors or indoors, and if you have photos
  
   ### takeaway
-- base de données : tables :
 - le chat bot veut Sum It Up, All Is Considered, take Everything into Account
+- il a une base de données : tables :
+
 - working days and Day’s Work
 - courses et une ligne darrivée
 - travel
@@ -19,3 +20,6 @@ find yourself lucky, and hack the city
 - arguments
 - key points
 - 
+# means of transport
+- il veut livrer le takeaway dans un moyen de transport
+- ou comme delivery
