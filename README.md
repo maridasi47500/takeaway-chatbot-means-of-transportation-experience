@@ -1,5 +1,6 @@
 # takeaway-chatbot-means-of-transportation-experience
-- chat bot qui a des bases de données, 
+- chat bot qui a des bases de données, et veut recuperer ou livrer un "takeaway" (idée, donnée, message) pour une amie (ami) ou sa famille.
+
 ### beginning , or home page : 
 find yourself lucky, and hack the city
 - how do you find yourself lycky ?
@@ -12,10 +13,10 @@ find yourself lucky, and hack the city
 - le chat bot veut Sum It Up, All Is Considered, take Everything into Account
 - il a une base de données : tables :
 
-- working days and Day’s Work
-- courses et une ligne darrivée
-- travel
-- situation, every angle of the situation
+- working days and Day’s Work (ce que quelqu'un a fait)
+- courses et une ligne darrivée (courses de sport)
+- travel (voyage dans un pays etranger, voyage en ville, avec un moyen de transport, train, bus)
+- situation, every angle of the situation (sitation, situation avec ses amis, et sa famille, digital ids, )
 - factors,
 - arguments
 - key points
